@@ -1,36 +1,29 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
-    <title>Hexo</title>
+    <title>秋水星河</title>
     <subtitle></subtitle>
     <icon>http://example.com/images/favicon.ico</icon>
     <link href="http://example.com" />
     <author>
-      <name>John Doe</name>
+      <name>yijiangqingfeng</name>
     </author>
-    <updated>2021-06-08T11:05:43.000Z</updated>
+    <updated>2021-06-22T02:55:24.000Z</updated>
     <entry>
-        <id>http://example.com/2021/06/08/myblog/</id>
-        <title>myblog</title>
-        <link rel="alternate" href="http://example.com/2021/06/08/myblog/"/>
-        <content type="html"></content>
-        <updated>2021-06-08T11:05:43.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://example.com/2021/06/08/hello-world/</id>
-        <title>Hello World</title>
-        <link rel="alternate" href="http://example.com/2021/06/08/hello-world/"/>
-        <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
-&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo new &lt;span class=&#34;token string&#34;&gt;&#34;My New Post&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo server&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
+        <id>http://example.com/2021/06/22/%E8%B5%B7%E7%82%B9/</id>
+        <title>起点</title>
+        <link rel="alternate" href="http://example.com/2021/06/22/%E8%B5%B7%E7%82%B9/"/>
+        <content type="html">&lt;h2 id=&#34;初衷&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#初衷&#34;&gt;#&lt;/a&gt; 初衷&lt;/h2&gt;
+&lt;p&gt;其实自己早就有一个建站的想法，只是一直无从起笔。大学的两年时间过去的如此之快，自己好像并没有落下些什么。因此，我决定写下些东西，来应对这飞逝的时光。&lt;/p&gt;
+&lt;p&gt;上了大学以后，工科的环境很压抑，有时候会感觉自己很麻木，很多事情并不能让自己很愉悦，也有很多事情也并不击我至沮丧，我的情绪波动渐渐没有那么大了... 我并不认为喜怒不形于色是一件好事，想让自己情绪化一些，所以，本站就这样诞生了。&lt;/p&gt;
+&lt;h2 id=&#34;起点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#起点&#34;&gt;#&lt;/a&gt; 起点&lt;/h2&gt;
+&lt;p&gt;前两天和好朋友聚餐，提了我的想法，但不知道从哪里开始写起。从高中写起，事情纷纷杂杂，不聚；想了想，从毕业写起，正正好。&lt;/p&gt;
+&lt;p&gt;我有一个八人的小团体，我们一起走过了高中三年时间，我们每个人的经历不尽相同。三年的时间，我们像兄弟至亲一样支撑着彼此。行至今日，我们依然保持着紧密的联系。关于我们每个人，性格各异，也因此碰撞出很多火花。关于我的回忆，就从这里写起。&lt;/p&gt;
+&lt;p&gt;所谓起点，那年毕业，是我的起笔之处，也是我们故事的开始。&lt;/p&gt;
+&lt;p class=&#34;gallery&#34; data-height=&#34;300&#34;&gt;&lt;img data-src=&#34;https://i.loli.net/2021/06/22/Dm6hkIjYO3PaqoZ.jpg&#34; alt=&#34;&#34; title=&#34;故事的开始&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://i.loli.net/2021/06/22/Vv6calR25GouAHy.jpg&#34; alt=&#34;&#34; title=&#34;故事的开始&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://i.loli.net/2021/06/22/PFR4xWXlmAKte2D.jpg&#34; alt=&#34;&#34; title=&#34;故事的开始&#34; /&gt;&lt;/p&gt;
 </content>
-        <updated>2021-06-08T11:04:14.119Z</updated>
+        <updated>2021-06-22T02:55:24.000Z</updated>
     </entry>
 </feed>
